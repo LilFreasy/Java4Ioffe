@@ -8,6 +8,15 @@ public class Main {
 
         System.out.println("Количество лекций: " + Lecture.count);
     }
+    Lecture lecture4 = new Lecture();
+
+
+
+    Lecture lecture3 = new Lecture();
+    Lecture lecture5 = new Lecture();
+
+
+
 }
 
 
