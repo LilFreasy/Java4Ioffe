@@ -7,7 +7,7 @@ public class Lecture {
         count++;
     }
 
-    private int id;
+    public int id;
     public String name;
 
 }
